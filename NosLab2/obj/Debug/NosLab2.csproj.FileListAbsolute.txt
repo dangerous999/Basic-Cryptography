@@ -1,0 +1,10 @@
+C:\Users\Dino\source\repos\NosLab2\NosLab2\bin\Debug\NosLab2.exe.config
+C:\Users\Dino\source\repos\NosLab2\NosLab2\bin\Debug\NosLab2.exe
+C:\Users\Dino\source\repos\NosLab2\NosLab2\bin\Debug\NosLab2.pdb
+C:\Users\Dino\source\repos\NosLab2\NosLab2\obj\Debug\NosLab2.csprojResolveAssemblyReference.cache
+C:\Users\Dino\source\repos\NosLab2\NosLab2\obj\Debug\NosLab2.Properties.Resources.resources
+C:\Users\Dino\source\repos\NosLab2\NosLab2\obj\Debug\NosLab2.csproj.GenerateResource.Cache
+C:\Users\Dino\source\repos\NosLab2\NosLab2\obj\Debug\NosLab2.csproj.CoreCompileInputs.cache
+C:\Users\Dino\source\repos\NosLab2\NosLab2\obj\Debug\NosLab2.exe
+C:\Users\Dino\source\repos\NosLab2\NosLab2\obj\Debug\NosLab2.pdb
+C:\Users\Dino\source\repos\NosLab2\NosLab2\obj\Debug\BasicCryptography.Form1.resources
